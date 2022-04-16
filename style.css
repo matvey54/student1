@@ -1,0 +1,56 @@
+body {
+    font-family: sans-serif;
+   
+}
+
+header {
+     background-color: aqua;
+}
+
+h1 {
+    color: blueviolet;
+    font-size: 55PX;
+}
+
+footer{
+    background-color: blue;
+}
+
+footer p {
+    background-color: white;
+}
+
+nav {
+    margin: 20px;
+    padding: 10px;
+    border: 2px solid black;
+    text-align: center;
+}
+nav a {
+    margin: 50px;
+    text-decoration: none;
+}
+.x {
+    background-color: aqua;
+    border-radius:10px;
+}
+.q{
+    background-color: brown;
+    border-radius: 10px;
+}
+.w{
+        background-color: aqua;
+    border-radius:10px;
+}
+.r{
+        background-color: brown;
+    border-radius: 10px;
+}
+h2{
+    color: blue;
+    font-size: 40px;
+}
+
+main{
+    margin: 40px;
+}
